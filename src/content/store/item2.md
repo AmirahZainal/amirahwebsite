@@ -1,13 +1,13 @@
 ---
-title: "Demo Item 2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "Telang"
+description: "The Only Blue That Won't Make You Blue"
 custom_link_label: "Custom Btn"
 custom_link: "https://customurl.com/"
-updatedDate: "Sep 11 2022"
-pricing: "$10"
-oldPricing: "$25.5"
+updatedDate: "20 June 2023"
+pricing: "RM10"
+badge: "Best Seller"
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/itemPreview.png"
+heroImage: "/itemtelang.png"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
